@@ -14,3 +14,7 @@ test5
 test 6
 
 test 7
+
+rebase test
+
+rebase test 2 testing
